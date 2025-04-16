@@ -1,5 +1,4 @@
-**Site web Oncology | Gestion de projet, L3
-**
+Site web Oncology | Gestion de projet, L3
 ## Problématique  
 **Et si la Data devenait une alliée de taille dans la lutte contre le cancer ?**  
 Ce projet vise à concevoir un outil numérique complet pour l’analyse des risques de cancer, en s’appuyant sur trois types de données complémentaires : des mammographies, des biopsies avec mesures morphologiques des tumeurs, ainsi que des données biométriques et sanguines. L’objectif principal est d’offrir une plateforme interactive, à destination des chercheurs et des professionnels de santé, pour explorer, visualiser et prédire le caractère bénin ou malin des tumeurs.
