@@ -4,6 +4,7 @@ des biopsies avec mesures morphologiques des tumeurs, ainsi que des données bio
 et sanguines. L’objectif principal est d’offrir une plateforme interactive, à destination des
 chercheurs et des professionnels de santé, pour explorer, visualiser et prédire le caractère
 bénin ou malin des tumeurs.
+
 Le site propose des sections dédiées à l’analyse exploratoire, à la visualisation statis-
 tique et à la prédiction par modèles. Pour les chercheurs, l’outil facilite la détection de
 corrélations entre variables et l’identification de facteurs de risque. Pour les médecins,
