@@ -18,3 +18,5 @@ Il constitue une aide précieuse au diagnostic, en apportant des prédictions au
 ## Logiciels utilisés  
 Python, PHP, SQL, Excel, LaTeX, JSON
 
+[➡ Cliquez ici pour télécharger le rapport (PDF)](Projet_réalisé_par_l_équipe_Oncoanalyse.pdf)
+
